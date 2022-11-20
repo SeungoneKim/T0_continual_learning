@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+additional_datasets/
+wandb/
+test_dataset.ipynb
+data/
+__pycache__/
+phase1_weight_path/
